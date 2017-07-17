@@ -1,0 +1,32 @@
+[
+{
+"id":"1",
+"FIO": "Иван Иванович Иванов",
+"phone": "+02",
+"email": "example@example.com" 
+},
+{
+"id":"2",
+"FIO": "Юльчик",
+"phone": "+03",
+"email": "" 
+},
+{
+"id":"3",
+"FIO": "Космодром",
+"phone": "+3232",
+"email": "kosmos@example.com" 
+},
+{
+"id":"4",
+"FIO": "АЗС",
+"phone": 89051234567,
+"email": "azs@example.com" 
+},
+{
+"id":"5",
+"FIO": "Microsoft",
+"phone": "+1800",
+"email": "spam@microsoft.com" 
+}
+]
